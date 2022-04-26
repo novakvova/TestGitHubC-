@@ -6,8 +6,10 @@ namespace TestGitProject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Привіт!");
             Console.WriteLine("Привіт команда!");
-            Console.WriteLine("Сьогодні хороший день. Можна класно відтягнутися.");
+            Console.WriteLine("Це зробила Вікторія.");
+            Console.WriteLine("Сьогодні хороший день");
         }
     }
 }
